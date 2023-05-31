@@ -1,11 +1,10 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Hướng dẫn sử dụng
+## Hướng dẫn sử dụng (Visual Studio Code)
 File -> Open Folder -> Chọn thư mục chứa project -> Select Folder
-Terminal
-Chạy các lệnh sau
+Khi đã mở Folder chứa project, trên thanh Menu chọn Terminal sau đó chạy các lệnh sau
+
 ## `npm install react-script`
 
 Tải các thư viện cần thiết.\ 
