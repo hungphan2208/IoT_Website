@@ -9,7 +9,7 @@ Khi đã mở Folder chứa project, trên thanh Menu chọn Terminal sau đó c
 
 Tải các thư viện cần thiết.\ 
 
-### `npm start`
+## `npm start`
 
 Chạy Website ở development mode.\
 Mở [http://localhost:3000](http://localhost:3000) để truy cập Website.
